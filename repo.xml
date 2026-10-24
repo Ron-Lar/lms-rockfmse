@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<extensions>
+	<details>
+		<title lang="EN">Ronnys plugins</title>
+	</details>
+	<plugins>
+		<plugin name="RockFMSE" version="0.1" minTarget="8.0" maxTarget="*">
+			<title lang="EN">Rock FM Sverige metadata</title>
+			<desc lang="EN">Shows artist, title and cover art for Rock FM Sverige</desc>
+			<creator>Ronny</creator>
+			<url>https://raw.githubusercontent.com/Ron-Lar/lms-rockfmse/main/RockFMSE-0.1.zip</url>
+			<sha>2dae359eed5c416137e60611e04239ff79aff224</sha>
+		</plugin>
+	</plugins>
+</extensions>
